@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Ch4Part2" />
+        <module name="CorePrinciples" />
+        <module name="ISP_Principle" />
+        <module name="LSP_Principle" />
+        <module name="OCD_Principle" />
+        <module name="PackagingPrinciples" />
+        <module name="PLK_Principle" />
+        <module name="SRP_Principle" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Bad_Packaging_Principles" target="1.7" />
+      <module name="NoIheritance" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

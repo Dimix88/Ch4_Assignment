@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Bad_Packaging_Principles" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ch4Part2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CorePrinciples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ISP_Principle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LSP_Principle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OCD_Principle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PLK_Principle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PackagingPrinciples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SRP_Principle" charset="UTF-8" />
+  </component>
+</project>
